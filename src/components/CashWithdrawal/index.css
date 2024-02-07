@@ -10,7 +10,8 @@
   background-color: #150b3e;
   padding: 25px;
   border-radius: 20px;
-  width: 50vw;
+  min-width: 50vw;
+  max-width: 90vw;
 }
 
 .name-section {
